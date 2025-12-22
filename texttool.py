@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+"""Ce module fournit des outils de manipulation de texte en ligne de commande."""
 
 
 def process_line(line):
